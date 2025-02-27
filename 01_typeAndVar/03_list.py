@@ -1,0 +1,10 @@
+classmates = ['Michael', 'Bob', 'Tracy']
+print(classmates)
+print(classmates[-1])
+print(classmates[2])
+classmates.insert(1, 'Tom')
+print(classmates)
+classmates.append('Jerry')
+print(classmates)
+classmates.pop()
+print(classmates)
