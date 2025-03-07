@@ -1,0 +1,6 @@
+### GET request to example server
+GET http://127.0.0.1:5000/api/users/3
+
+###
+
+POST http://127.0.0.1:5000/users/1
