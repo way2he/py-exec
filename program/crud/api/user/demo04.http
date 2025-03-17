@@ -1,0 +1,21 @@
+### GET request to example server
+GET http://127.0.0.1:5000/api/users/2
+
+###
+GET http://127.0.0.1:5000/api/users
+
+###
+POST 127.0.0.1:5000/api/users
+Content-Type: application/json
+
+{
+    "name":"haha1",
+    "age":19,
+    "email":"222@11.com"
+}
+
+
+###
+DELETE 127.0.0.1:5000/api/users/14
+
+
