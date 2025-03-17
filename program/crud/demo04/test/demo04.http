@@ -2,7 +2,7 @@
 GET http://127.0.0.1:5000/api/users/2
 
 ###
-GET http://127.0.0.1:5000/api/users
+GET http://127.0.0.1:5000/api/users?page=2&per_page=2
 
 ###
 POST 127.0.0.1:5000/api/users
